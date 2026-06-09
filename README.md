@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="public/veritus-logo.png" alt="Feeds" width="88" />
-
-# Feeds
-
 ### *Research, decanted.*
 
 The endless scroll of human knowledge — poured one paper at a time.
